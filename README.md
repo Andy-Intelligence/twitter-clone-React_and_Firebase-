@@ -1,6 +1,6 @@
 
 # Hosting URL: https://twitter-clone-fd2b4.web.app
-# Video : 
+# Video : https://youtu.be/iJNR63Ljc04
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
